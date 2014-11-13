@@ -189,6 +189,11 @@ section > h1 {
     color: lightblue;
 }
 
+#dvorak_colemak {
+    background-color: lavender;
+    color: purple;
+}
+
 /* badge positioning from the bottom */
 .app .description {
     margin-bottom: 3.5em;
